@@ -1,5 +1,5 @@
 from tests.step_defs.framework.driver import *
-from tests.step_defs.bi_common import
+from tests.step_defs.bi_common import *
 
 caps = {}
 

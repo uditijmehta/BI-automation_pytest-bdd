@@ -1,4 +1,4 @@
-from pytest_bdd import given, when, then, parsers
+from pytest_bdd import given
 
 from tests.step_defs.common_locators import CommonLocators
 
